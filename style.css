@@ -7,7 +7,7 @@ body{
     margin: 0px 165px;
 }
 .header{
-    background-image: url(fon.png);
+    background-image: url(img/fon.png);
     height: 100vh; /*высота на весь экран*/
     background-repeat: no-repeat; /* не повторяет изображение на фоне */
     background-size: cover; /*бэкграунд на весь экран*/
@@ -249,7 +249,7 @@ body{
 
 
 .sale-block{
-    background-image: url(sale-bg.png);
+    background-image: url(img/sale-bg.png);
 
 }
 .sale-title{
@@ -324,7 +324,7 @@ body{
 
 
 .menu{
-    background-image: url(menubg.png);
+    background-image: url(img/menubg.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding-bottom: 226px;
@@ -509,7 +509,7 @@ margin-bottom: 107px;
 
 
 .footer-image{
-    background-image: url(footer.png);
+    background-image: url(img/footer.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding-bottom: 732px;
